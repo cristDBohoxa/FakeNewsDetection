@@ -6,7 +6,7 @@ Hi EveryBody!!
 The objective of this project is the elaboration of a code that compiles four ML techniques for the detection of fake news.
 
 A small DataSet is provided, with this you can replicate the experiment, it is in your hands to make it much bigger.
-The exercise consists of two parts, the first is the cleaning and debugging of the database (.../Code/clean.ipynb). the second (.../Code/ToTrain.ipynb) is the training itself, the algorithms used are:
+The exercise consists of two parts, the first is the cleaning and debugging of the database (.../Code/clean.ipynb). the second (.../Code/ToTrain.ipynb) is the training of the Code, the ML algorithms used are:
 
   1. Linear Regression
   2. Decision Trees
