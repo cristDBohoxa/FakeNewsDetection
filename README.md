@@ -1,5 +1,9 @@
 # FakeNewsDetection
-AI algorithms for fake news detection 
+AI algorithms for political and economics fake news detection
+
+
+![Alt text](https://w7.pngwing.com/pngs/725/623/png-transparent-fake-news-awards-news-media-journalism-news-miscellaneous-text-label-thumbnail.png "Fakes_News")
+
 
 Hi EveryBody!!
 
@@ -11,8 +15,9 @@ The exercise consists of two parts, the first is the cleaning and debugging of t
   1. Linear Regression
   2. Decision Trees
   3. Random Forests
+  
   4.Gradient Boosting
 
-To test the results you will have to take a one news from an official portal (cnn, new york times, Fox News, reuters...), copy all News and insert it in the final part, the program will analyze the entrie and it give you a result. the algorithms are optimized to find false news in the political and economic sphere, so it is not worth putting whatever type of news, in addition to that, the code is focused on false news in EEUU.
+To test the results we will have to take a one news (scrap) from an official portal (cnn, new york times, Fox News, reuters...), copy all News and insert it in the final part, the program will analyze the entrie and it give you a result. the algorithms are optimized to find false news in the political and economic sphere, so it is not worth putting whatever type of news, in addition to that, the code is focused on false news in EEUU.
 
 Enyoy :)
